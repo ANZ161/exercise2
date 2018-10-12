@@ -1,3 +1,7 @@
 # script for numbering the lines of a file
 # modify this script to prepend the next number to each line of the input file
-cat $1
+
+for i in number_lines; do
+ 
+echo $i 
+done
